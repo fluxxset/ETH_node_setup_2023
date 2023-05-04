@@ -29,6 +29,8 @@
 `./prysm.sh beacon-chain --execution-endpoint=http://localhost:8551 --jwt-secret=/root/prysm/jwt.hex --suggested-fee-recipient=0x01234567722E6b0000012BFEBf6177F1D2e9758D9`
 
 
+add your address in above cmmand insted of "0x01234567722E6b0000012BFEBf6177F1D2e9758D9"
+
 
 ------------------------------------------------------------------------------------------------------------
 
