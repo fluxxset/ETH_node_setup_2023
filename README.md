@@ -1,4 +1,4 @@
-# ETH_node_setup_2023
+# ETH_node_setup_2023 Cloud / Local
 
 
 
